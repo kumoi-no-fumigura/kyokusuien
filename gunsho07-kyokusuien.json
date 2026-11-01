@@ -26,7 +26,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": null,
+ "translation": {
+  "count": 1,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "gunsho07-kyokusuien-0001",
@@ -335,6 +338,7 @@
   "poems": 24,
   "editions": 1,
   "updated": "2026-11-01",
-  "updated_at": "2026-11-01T20:42:52+09:00"
+  "updated_at": "2026-11-01T20:42:52+09:00",
+  "yaku": 1
  }
 }
